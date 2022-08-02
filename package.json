@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage":"https://https://fakucapoeira.github.io/react-gif-expert",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
